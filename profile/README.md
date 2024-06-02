@@ -9,3 +9,5 @@
 ### Discord
 - https://discord.gg/Dmq9abNq
 
+### Linkedin
+- https://www.linkedin.com/company/inovalabs-technologies/
